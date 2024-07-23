@@ -52,8 +52,9 @@ The backend is built using Node.js with Express.js and provides RESTful APIs for
    npm install
    ```
 
+2. in the frontend directory and add the baseurl in utils/axiosInstance.jsx.
+
 ````
-2.** in the frontend directory and add the baseurl in utils/axiosInstance.jsx.**
  ```bash
  baseURL: 'http://localhost:5000'
 ````
@@ -73,9 +74,9 @@ The backend is built using Node.js with Express.js and provides RESTful APIs for
    npm install
    ```
 
-````
+2. Start the backend
 
-2. **Sart the backend**:
+````
 ```bash
  npm run start
 ````
