@@ -68,7 +68,7 @@ npm install
 
 **1. Navigate to the Backend directory**:
 
-```bash
+```
 cd backend
 npm install
 ```
@@ -76,7 +76,6 @@ npm install
 **2. Start the backend**
 
 ```
-**bash**
  npm run start
 ```
 
