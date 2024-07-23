@@ -54,16 +54,15 @@ npm install
 
 **2. in the frontend directory and add the baseurl in utils/axiosInstance.jsx.**
 
-````
- ```bash
- baseURL: 'http://localhost:5000'
-````
+```
+ BaseURL: 'http://localhost:5000'
+```
 
 **3. Start the frontend**:
 
-```bash
- npm run dev
-```
+npm run dev
+
+````
 
 ### Backend
 
@@ -72,14 +71,14 @@ npm install
 ```bash
 cd backend
 npm install
-```
+````
 
 **2. Start the backend**
 
-````
-```bash
+```
+**bash**
  npm run start
-````
+```
 
 ## .env Configuration
 
