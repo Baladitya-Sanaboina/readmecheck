@@ -60,9 +60,9 @@ npm install
 
 **3. Start the frontend**:
 
-npm run dev
-
-````
+```
+ npm run dev
+```
 
 ### Backend
 
@@ -71,7 +71,7 @@ npm run dev
 ```bash
 cd backend
 npm install
-````
+```
 
 **2. Start the backend**
 
